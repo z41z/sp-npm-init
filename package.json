@@ -1,0 +1,23 @@
+{
+  "name": "sp-npm-init",
+  "version": "1.0.0",
+  "description": "npm init",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production --config=webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z41z/sp-npm-init.git"
+  },
+  "keywords": [
+    "npm",
+    "init"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/z41z/sp-npm-init/issues"
+  },
+  "homepage": "https://github.com/z41z/sp-npm-init#readme"
+}
