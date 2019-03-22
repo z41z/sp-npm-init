@@ -8,6 +8,12 @@ npm init
   npm i xxx //or yarn add xxx
 ```
 
+## Build
+
+``` node
+  npm run build
+```
+
 ## CDN
 
 ``` js

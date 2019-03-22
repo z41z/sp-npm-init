@@ -1,10 +1,10 @@
 {
   "name": "sp-npm-init",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "npm init",
   "main": "index.js",
   "scripts": {
-    "build": "webpack --mode production --config=webpack.config.js"
+    "build": "node build&&webpack --mode production --config=webpack.config.js"
   },
   "repository": {
     "type": "git",
